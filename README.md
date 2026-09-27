@@ -4,13 +4,13 @@
 
 ## 当前内容
 
-本仓库目前收录经过版权筛选的官方资源入口：
+### Wortschatz
 
-- A1、A2、B1 官方词汇表
-- Goethe-Zertifikat A1-C2 官方练习材料入口
-- Goethe-Zertifikat B2 的 Hören、Lesen、Schreiben、Sprechen 练习入口
+- [A2 个人词汇整理](vocabulary/README.md)：根据个人框选、划线和中文批注整理的 7 份复习词表，只保留选中的词条、词形和中文释义。
 
-详见 [Official German Learning Resources](resources/official-resources.md)。
+### Official Resources
+
+- [Goethe 官方词汇与考试练习入口](resources/official-resources.md)
 
 本地资料中无法确认公开传播权的教材、题库、范文、考试原始文件和其他第三方材料未纳入仓库。
 
@@ -19,11 +19,21 @@
 ```text
 german-learning-notes/
 ├── README.md
+├── vocabulary/
+│   ├── README.md
+│   └── A2/
+│       ├── word-list-02.md
+│       ├── word-list-03.md
+│       ├── word-list-04.md
+│       ├── word-list-05.md
+│       ├── word-list-06.md
+│       ├── word-list-07.md
+│       └── word-list-08.md
 └── resources/
     └── official-resources.md
 ```
 
-目录只反映仓库中实际存在的内容。后续个人整理的词汇、固定搭配和写作笔记可按主题增加 Markdown 文件。
+目录只反映仓库中实际存在的内容。
 
 ## 内容原则
 
